@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://skptricks.github.io/React-Popups/",
+  "homepage": "https://skptricks.github.io/React-Popup/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.3.2",
